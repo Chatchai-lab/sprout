@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Geheimnisse und lokale Konfiguration
+.env
+software/config.yaml
+
+# Laufzeitdaten vom Pi
+*.db
+*.sqlite3
+data/
+photos/
+timelapse/
+
+# Editor und System
+.vscode/
+.idea/
+.DS_Store
