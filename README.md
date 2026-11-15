@@ -34,6 +34,8 @@ Alle Grenzwerte stehen später in `software/config.yaml`, nicht im Code.
 
 ## Aufbau
 
+![Skizze von Sprout: Box 40 × 50 cm mit LED-Licht, Kamera, Lüfter, Temperatur- und Feuchtesensor, Pflanze mit Bodenfeuchtesensor, Tank mit Pumpe und darunter Pi mit Relais](docs/img/skizze.png)
+
 - Box ca. 40 × 30 × 50 cm (B × T × H) mit Plexiglas-Front und Tür
 - Raspberry Pi mit BME280 (Temperatur, Luftfeuchte), kapazitivem Bodenfeuchtesensor über ADS1115, Kamera
 - 4-Kanal-Relais für Pumpe, Lüfter und LED, eigene Stromversorgung für die Geräte
