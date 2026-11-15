@@ -8,9 +8,13 @@ Sprout ist ein gemeinsames Projekt von Maschinenbau und Informatik.
 
 > Die Pflanze überlebt eine Woche ohne uns.
 
-Konkret: 7 Tage Betrieb ohne Eingriff von Hand (außer Tank nachfüllen), und die Messwerte bleiben in den Zielbereichen unten.
+Konkret: Das Basilikum kommt 7 Tage ohne Eingriff von Hand aus (außer Tank nachfüllen), und die Messwerte bleiben in den Zielbereichen unten.
 
-## Zielwerte der Pflanze
+## Pflanze: Basilikum
+
+Wir starten mit Basilikum. Es wächst schnell, braucht viel Licht und zeigt Wassermangel sofort durch hängende Blätter. So sieht man schnell, ob Sprout richtig regelt.
+
+### Zielwerte
 
 | Größe | Zielbereich | Hinweise |
 | --- | --- | --- |
@@ -29,6 +33,8 @@ Konkret: 7 Tage Betrieb ohne Eingriff von Hand (außer Tank nachfüllen), und di
 Alle Grenzwerte stehen später in `software/config.yaml`, nicht im Code.
 
 ## Aufbau
+
+![Skizze von Sprout: Box 40 × 50 cm mit LED-Licht, Kamera, Lüfter, Temperatur- und Feuchtesensor, Pflanze mit Bodenfeuchtesensor, Tank mit Pumpe und darunter Pi mit Relais](docs/img/skizze.png)
 
 - Box ca. 40 × 30 × 50 cm (B × T × H) mit Plexiglas-Front und Tür
 - Raspberry Pi mit BME280 (Temperatur, Luftfeuchte), kapazitivem Bodenfeuchtesensor über ADS1115, Kamera
