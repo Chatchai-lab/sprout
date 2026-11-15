@@ -47,7 +47,7 @@ Alle Grenzwerte stehen später in `software/config.yaml`, nicht im Code.
 | Wer | Bereich |
 | --- | --- |
 | Chatchai ([@Chatchai-lab](https://github.com/Chatchai-lab)) | Software und Elektronik: Pi, Sensoren, Regelung, Datenbank, Dashboard, Kamera |
-| Katja | Mechanik: Box, Lüftung, Bewässerung, Halterungen, Wasserschutz |
+| Katja ([@kat-force](https://github.com/kat-force)) | Mechanik: Box, Lüftung, Bewässerung, Halterungen, Wasserschutz |
 
 ## Projektstruktur
 
