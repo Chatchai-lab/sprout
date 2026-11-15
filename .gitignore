@@ -24,3 +24,9 @@ timelapse/
 .vscode/
 .idea/
 .DS_Store
+
+# FreeCAD-Sicherungsdateien
+*.FCBak
+*.FCStd1
+*.FCStd2
+*.FCStd3
