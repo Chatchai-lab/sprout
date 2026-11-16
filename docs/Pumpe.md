@@ -17,7 +17,7 @@ Dieses Modell wurde aus folgenden Hauptgründen für das Projekt ausgewählt:
 ---
 
 ## 3. Technische Spezifikationen
-*(Exakte Kenndaten wie Betriebsspannung, Stromstärke und Förderleistung entnehmen Sie bitte dem spezifischen Datenblatt unter `/sprout/docs/Datenblätter`)*
+*(Exakte Kenndaten wie Betriebsspannung, Stromstärke und Förderleistung entnehmen Sie bitte dem spezifischen Datenblatt unter `/sprout/docs/Datenblätter/Kamoer NKP Schlauchpumpe.pdf`)*
 
 | Eigenschaft | Beschreibung / Wert |
 | :--- | :--- |
