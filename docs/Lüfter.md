@@ -23,6 +23,7 @@ Für das Projekt wurde gezielt ein Modell der **Xilence White Box Serie** ausgew
 | Eigenschaft | Detail |
 | :--- | :--- |
 | **Hersteller / Serie** | Xilence White Box Serie |
+| **Spannung** | 12 V |
 | **Lagerung** | Hydro Bearing (Fluidlager) |
 | **Anschluss** | 3-Pin |
 | **Besonderheit** | Fokus liegt voll auf der Kernqualität (durch "White Box"-Konzept ohne teure Hochglanzverpackung) |
